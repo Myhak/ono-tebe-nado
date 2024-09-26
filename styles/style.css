@@ -48,7 +48,8 @@
 
 .address__mail {
   text-decoration: underline;
-  text-underline-offset: 5px;  }
+  text-underline-offset: 5px;  
+}
 
 .cover {
   padding: 170px 50px 50px;
@@ -76,7 +77,8 @@
   row-gap: 25px;
   position: relative;
   z-index: 1;
-  letter-spacing: 0.3em; }
+  letter-spacing: 0.3em; 
+}
 
 .aligned-text {
   display: block;
